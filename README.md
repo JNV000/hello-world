@@ -3,7 +3,8 @@ Repository for CIS 277
 ## Owner: Jacob Vielweber
 > Computer science major
 
-Planning to enter software development or web development. Also wishes to learn **3d modelling** and _game development_.
+Planning to enter software development or web development.  
+Also wishes to learn **3d modelling** and _game development_.
 #### Hobbies
 * Video Games
 * Reading
